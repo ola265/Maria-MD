@@ -3,24 +3,24 @@ const chalk = require('chalk');
 require('dotenv').config();
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "919931122319"],
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ownernumber = [ process.env.OWNER_NUMBER || "2349034886823"],
+global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘𝓥𝓘𝓡𝓤𝓢✘𓆪_✰",
+global.ytname = "YT: VirusBotz.inc"
+global.socialm = "GitHub: ola265"
+global.location = "Nigerian"
 
-global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
+global.botname = process.env.BOTNAME || "𝓥𝓘𝓡𝓤𝓢-𝐌𝐃",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
-global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.stickername = process.env.STICKER || "💙𓆩‎✘𝓥𝓘𝓡𝓤𝓢✘𓆪_✰",
+global.packname = 'Sticker By 💙𓆩‎✘𝓥𝓘𝓡𝓤𝓢✘𓆪_✰'
+global.author = process.env.AUTHOR || "💙𓆩‎✘𝓥𝓘𝓡𝓤𝓢✘𓆪_✰",
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Virus botz inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
+global.link = 'https://chat.whatsapp.com/JkAV3ikV8k0Hxxkopw4khz'
 
 //custom prefix
 global.prefa = process.env.PREFIX || ".",
@@ -41,11 +41,11 @@ global.autoread_status = false //auto view status/story
 global.mess = {
     done: '🍭 *Here you go, darling!* ',
     prem: '🍭 *My darling, this feature is reserved for premium users only*',
-    admin: '🍭 *My darling, this feature is reserved for admins only*',
+    admin: '🍭 *My darling, Virus/Ola has set this feature to be reserved for admins only*',
     botAdmin: '🍭 *Darling, this feature can only be used when the bot is a group admin* ',
     owner: '🍭 *My dearest, this feature is reserved for the owner only*',
     group: '🍭 *Sweetheart, this feature is exclusively for groups*',
-    private: '🍭 *My love, this feature is exclusively for private chats*',
+    private: '🍭 *My love,Virus/Ola has set this feature to be exclusively available for only private chats*',
     wait: '🍭 *Darling, in process...* ',    
     error: '🍭 *Oh darling, there seems to be an error!*',
 }
